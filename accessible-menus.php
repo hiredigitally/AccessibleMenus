@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Accessible Menus
  * Plugin URI:        https://hiredigitally.com
- * Description:       Creates accessible navigation menus
+ * Description:       Creates accessible navigation menus to meet WCAG 2.1 Success Criteria 1.4.13: Content on Hover or Focus
  * Version:           1.0.0
  * Author:            Digitally
  * Author URI:        https://hiredigitally.com
